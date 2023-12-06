@@ -1,0 +1,23 @@
+2022-02-28 16:19:56 api.AllocateBAN[main]99 WARN  - Invoked Okapi URL by passing proxy credentials
+2022-02-28 16:20:02 api.AllocateBAN[main]103 INFO  - Retrieve token from Okapi to authorize the transaction
+2022-02-28 16:20:13 org.apache.http.client.protocol.RequestProxyAuthentication[main]88 WARN  - NEGOTIATE authentication error: No valid credentials provided (Mechanism level: No valid credentials provided (Mechanism level: Failed to find any Kerberos tgt))
+2022-02-28 16:20:13 org.apache.http.client.protocol.RequestProxyAuthentication[main]88 WARN  - NTLM authentication error: Credentials cannot be used for NTLM authentication: org.apache.http.auth.UsernamePasswordCredentials
+2022-02-28 16:30:32 api.AllocateBAN[main]88 ERROR - Error in Getting Token
+2022-02-28 16:30:55 api.AllocateBAN[main]99 WARN  - Invoked Okapi URL by passing proxy credentials
+2022-02-28 16:31:04 api.AllocateBAN[main]103 INFO  - Retrieve token from Okapi to authorize the transaction
+2022-02-28 16:31:36 org.apache.http.client.protocol.RequestProxyAuthentication[main]88 WARN  - NEGOTIATE authentication error: No valid credentials provided (Mechanism level: No valid credentials provided (Mechanism level: Failed to find any Kerberos tgt))
+2022-02-28 16:31:36 org.apache.http.client.protocol.RequestProxyAuthentication[main]88 WARN  - NTLM authentication error: Credentials cannot be used for NTLM authentication: org.apache.http.auth.UsernamePasswordCredentials
+2022-02-28 16:32:10 api.AllocateBAN[main]88 ERROR - Error in Getting Token
+2022-02-28 16:32:34 api.AllocateBAN[main]99 WARN  - Invoked Okapi URL by passing proxy credentials
+2022-02-28 16:32:37 api.AllocateBAN[main]103 INFO  - Retrieve token from Okapi to authorize the transaction
+2022-02-28 16:32:38 org.apache.http.client.protocol.RequestProxyAuthentication[main]88 WARN  - NEGOTIATE authentication error: No valid credentials provided (Mechanism level: No valid credentials provided (Mechanism level: Failed to find any Kerberos tgt))
+2022-02-28 16:32:38 org.apache.http.client.protocol.RequestProxyAuthentication[main]88 WARN  - NTLM authentication error: Credentials cannot be used for NTLM authentication: org.apache.http.auth.UsernamePasswordCredentials
+2022-02-28 16:33:43 api.AllocateBAN[main]88 ERROR - Error in Getting Token
+2022-02-28 16:35:00 api.AllocateBAN[main]99 WARN  - Invoked Okapi URL by passing proxy credentials
+2022-02-28 16:35:03 api.AllocateBAN[main]103 INFO  - Retrieve token from Okapi to authorize the transaction
+2022-02-28 16:35:05 org.apache.http.client.protocol.RequestProxyAuthentication[main]88 WARN  - NEGOTIATE authentication error: No valid credentials provided (Mechanism level: No valid credentials provided (Mechanism level: Failed to find any Kerberos tgt))
+2022-02-28 16:35:05 org.apache.http.client.protocol.RequestProxyAuthentication[main]88 WARN  - NTLM authentication error: Credentials cannot be used for NTLM authentication: org.apache.http.auth.UsernamePasswordCredentials
+2022-02-28 16:37:20 api.AllocateBAN[main]99 WARN  - Invoked Okapi URL by passing proxy credentials
+2022-02-28 16:37:23 api.AllocateBAN[main]103 INFO  - Retrieve token from Okapi to authorize the transaction
+2022-02-28 16:37:25 org.apache.http.client.protocol.RequestProxyAuthentication[main]88 WARN  - NEGOTIATE authentication error: No valid credentials provided (Mechanism level: No valid credentials provided (Mechanism level: Failed to find any Kerberos tgt))
+2022-02-28 16:37:25 org.apache.http.client.protocol.RequestProxyAuthentication[main]88 WARN  - NTLM authentication error: Credentials cannot be used for NTLM authentication: org.apache.http.auth.UsernamePasswordCredentials
